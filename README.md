@@ -1,6 +1,3 @@
-# password_manager
-test
-
 # Password Manager
 <p align="center">
   <img src="https://github.com/raul-leal/password_manager/blob/ba9c83c8d20298830997e8e7624b950c933932a5/logo.png" alt="Logo"/>
